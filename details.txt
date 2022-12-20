@@ -1,0 +1,13 @@
+user: arunsingh
+pwd: HzuW6Q8wvQU3vPu9
+db : RestAPi
+mongodb+srv://arunsingh:<password>@restapi.3vsfota.mongodb.net/?retryWrites=true&w=majority
+
+arunsingh
+NXC9vPzcy33Ska1C
+
+mongodb+srv://arunsingh:NXC9vPzcy33Ska1C@rest-api.jmzxvce.mongodb.net/?retryWrites=true&w=majority
+
+
+mongodb+srv://arunsingh:NXC9vPzcy33Ska1C@rest-api.jmzxvce.mongodb.net/rest-api?retryWrites=true&w=majority
+
